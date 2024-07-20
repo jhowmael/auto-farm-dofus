@@ -1,0 +1,1 @@
+Welcome to the Dofus Farming Bot repository! This project provides a bot designed to automate farming activities in the game Dofus. The bot is intended to help players efficiently gather resources and level up their characters.
